@@ -1,0 +1,7 @@
+{
+  "name": "QR CODE CHECKING",
+  "description": "Một ứng dụng web để quét mã QR code từ danh sách đơn hàng được nhập từ file Excel, cung cấp phản hồi tức thì bằng âm thanh, màu sắc và rung. Hỗ trợ xuất kết quả ra file Excel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
